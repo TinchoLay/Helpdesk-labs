@@ -67,5 +67,5 @@ See [`active-directory/setup/`](active-directory/setup/) for step-by-step deploy
 
 ## 👤 Author
 
-**Martín Layún** — IT Support | Cybersecurity enthusiast  
+**Martín** — IT Support | Cybersecurity enthusiast  
 [LinkedIn](www.linkedin.com/in/martin-chancalay-902b543a8) · [GitHub](https://github.com/TinchoLay)
